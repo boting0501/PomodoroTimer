@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:startDestination="@id/mainActivity">
+
+    <!-- 主頁面 -->
+    <activity
+        android:id="@+id/mainActivity"
+        android:name="com.example.tomato.MainActivity"
+        android:label="Main Page" />
+
+    <!-- 設定頁面 -->
+    <activity
+        android:id="@+id/settingActivity"
+        android:name="com.example.tomato.SettingActivity"
+        android:label="Settings" />
+
+    <!-- 成就頁面 -->
+    <activity
+        android:id="@+id/achievementActivity"
+        android:name="com.example.tomato.AchievementActivity"
+        android:label="Achievements" />
+
+    <!-- 分析頁面 -->
+    <activity
+        android:id="@+id/analyticsActivity"
+        android:name="com.example.tomato.AnalyticsActivity"
+        android:label="Analytics" />
+</navigation>

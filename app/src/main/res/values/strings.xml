@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tomato</string>
+    <string-array name="phase_options">
+        <item>請選擇</item> <!-- 設定第一個選項為 "請選擇" -->
+        <item>學習</item>
+        <item>工作</item>
+        <item>其他</item>
+    </string-array>
+</resources>
