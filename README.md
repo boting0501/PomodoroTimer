@@ -3,7 +3,7 @@
 
  📱 專案截圖
  <img width="1460" height="762" alt="螢幕擷取畫面 2026-03-22 032647" src="https://github.com/user-attachments/assets/2015b8c9-7e29-417a-b299-b2a3576369e9" />
-
+ 程式碼位於app/src/main/java裡
 
 ✨ 核心功能 (Features)
 
